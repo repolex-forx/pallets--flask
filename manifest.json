@@ -522,6 +522,29 @@
         "blob/ab96e719eefbcfd0348b24b7b58e1fb7d4417a56.nq.gz",
         "blob/017ce28098014dbfea23778a53255fd7c99e175f.nq.gz",
         "blob/4eedab128e1cc41a1ffe6a7c0a55d3b2f4362942.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/6b3e616cf905fd19c37fca93d1198cad1490567b.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6b3e616cf905fd19c37fca93d1198cad1490567b.nq.gz",
+      "repolex": "aggregate/repolex/6b3e616cf905fd19c37fca93d1198cad1490567b.nq.gz",
+      "dep": "dep/6b3e616cf905fd19c37fca93d1198cad1490567b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "werkzeug",
+          "githubOrg": "pallets",
+          "githubRepo": "werkzeug"
+        },
+        {
+          "packageName": "flask",
+          "githubOrg": "pallets",
+          "githubRepo": "flask"
+        },
+        {
+          "packageName": "jinja2",
+          "githubOrg": "pallets",
+          "githubRepo": "jinja"
+        }
       ]
     }
   ],
