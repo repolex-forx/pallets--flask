@@ -1404,6 +1404,39 @@
         "blob/4eedab128e1cc41a1ffe6a7c0a55d3b2f4362942.nq.gz",
         "blob/eb645bdc827dcf9c431f7e8c0a76e046d5d1d553.nq.gz",
         "blob/f7c700d3414d9ac8a163108b1e5cb40bea45dd10.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/3f5db33ece48bd22b77fcc62553998ea9a6cfdfc.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/3f5db33ece48bd22b77fcc62553998ea9a6cfdfc.nq.gz",
+      "repolex": "aggregate/repolex/3f5db33ece48bd22b77fcc62553998ea9a6cfdfc.nq.gz",
+      "dep": "dep/3f5db33ece48bd22b77fcc62553998ea9a6cfdfc.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "werkzeug",
+          "githubOrg": "pallets",
+          "githubRepo": "werkzeug"
+        },
+        {
+          "packageName": "flask",
+          "githubOrg": "pallets",
+          "githubRepo": "flask"
+        },
+        {
+          "packageName": "jinja2",
+          "githubOrg": "pallets",
+          "githubRepo": "jinja"
+        },
+        {
+          "packageName": "django",
+          "githubOrg": "django",
+          "githubRepo": "django"
+        },
+        {
+          "packageName": "blinker",
+          "githubOrg": "pallets-eco",
+          "githubRepo": "blinker"
+        }
       ]
     }
   ],
