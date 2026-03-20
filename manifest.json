@@ -2691,6 +2691,59 @@
         "blob/ad1721fdf15a14497b0dc93650ed2832da3b242d.nq.gz",
         "blob/eb645bdc827dcf9c431f7e8c0a76e046d5d1d553.nq.gz",
         "blob/f7c700d3414d9ac8a163108b1e5cb40bea45dd10.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/d1d82ca8ce7262ad9d27245ce44f86571287810e.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d1d82ca8ce7262ad9d27245ce44f86571287810e.nq.gz",
+      "repolex": "aggregate/repolex/d1d82ca8ce7262ad9d27245ce44f86571287810e.nq.gz",
+      "dep": "dep/d1d82ca8ce7262ad9d27245ce44f86571287810e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "flask",
+          "githubOrg": "pallets",
+          "githubRepo": "flask"
+        },
+        {
+          "packageName": "werkzeug",
+          "githubOrg": "pallets",
+          "githubRepo": "werkzeug"
+        },
+        {
+          "packageName": "jinja2",
+          "githubOrg": "pallets",
+          "githubRepo": "jinja"
+        },
+        {
+          "packageName": "blinker",
+          "githubOrg": "pallets-eco",
+          "githubRepo": "blinker"
+        },
+        {
+          "packageName": "itsdangerous",
+          "githubOrg": "pallets",
+          "githubRepo": "itsdangerous"
+        },
+        {
+          "packageName": "click",
+          "githubOrg": "pallets",
+          "githubRepo": "click"
+        },
+        {
+          "packageName": "greenlet",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet"
+        },
+        {
+          "packageName": "cliapp",
+          "githubOrg": "zhchang",
+          "githubRepo": "cliapp"
+        }
       ]
     }
   ],
