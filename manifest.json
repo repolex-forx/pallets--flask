@@ -13475,18 +13475,11 @@
           "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
         },
         {
-          "packageName": "dotenv",
-          "packageVersion": "0.9.9",
-          "githubOrg": "pedroburon",
-          "githubRepo": "dotenv",
+          "packageName": "namespace",
+          "packageVersion": "0.1.4",
+          "githubOrg": "tombulled",
+          "githubRepo": "namespace",
           "githubCommit": "HEAD"
-        },
-        {
-          "packageName": "markupsafe",
-          "packageVersion": "3.0.3",
-          "githubOrg": "pallets",
-          "githubRepo": "markupsafe",
-          "githubCommit": "297fc8e356e6836a62087949245d09a28e9f1b13"
         },
         {
           "packageName": "cliapp",
@@ -13496,17 +13489,24 @@
           "githubCommit": "HEAD"
         },
         {
-          "packageName": "pallets-sphinx-themes",
-          "packageVersion": "2.5.0",
-          "githubOrg": "pallets",
-          "githubRepo": "pallets-sphinx-themes",
-          "githubCommit": "ae90e2c6496ef95d7487e981b8496d024f322939"
+          "packageName": "dotenv",
+          "packageVersion": "0.9.9",
+          "githubOrg": "pedroburon",
+          "githubRepo": "dotenv",
+          "githubCommit": "HEAD"
         },
         {
-          "packageName": "namespace",
-          "packageVersion": "0.1.4",
-          "githubOrg": "tombulled",
-          "githubRepo": "namespace",
+          "packageName": "packaging",
+          "packageVersion": "26.0.0rc3",
+          "githubOrg": "pypa",
+          "githubRepo": "packaging",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "markupsafe",
+          "packageVersion": "3.0.3",
+          "githubOrg": "pallets",
+          "githubRepo": "markupsafe",
           "githubCommit": "HEAD"
         },
         {
@@ -13514,13 +13514,13 @@
           "packageVersion": "46.0.5",
           "githubOrg": "pyca",
           "githubRepo": "cryptography",
-          "githubCommit": "06e120e682cb200e3f7050c02f0bcdac90c4c6ad"
+          "githubCommit": "HEAD"
         },
         {
-          "packageName": "packaging",
-          "packageVersion": "26.0.0rc3",
-          "githubOrg": "pypa",
-          "githubRepo": "packaging",
+          "packageName": "pallets-sphinx-themes",
+          "packageVersion": "2.5.0",
+          "githubOrg": "pallets",
+          "githubRepo": "pallets-sphinx-themes",
           "githubCommit": "HEAD"
         }
       ]
