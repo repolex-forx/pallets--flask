@@ -12100,31 +12100,31 @@
           "githubCommit": "22d924701a6ae2e4cd01e9a15bbaf3946094af65"
         },
         {
-          "packageName": "dotenv",
-          "packageVersion": "0.9.9",
-          "githubOrg": "pedroburon",
-          "githubRepo": "dotenv",
-          "githubCommit": "HEAD"
-        },
-        {
-          "packageName": "markupsafe",
-          "packageVersion": "3.0.3",
-          "githubOrg": "pallets",
-          "githubRepo": "markupsafe",
-          "githubCommit": "297fc8e356e6836a62087949245d09a28e9f1b13"
-        },
-        {
-          "packageName": "cliapp",
-          "packageVersion": "1.0.9",
-          "githubOrg": "zhchang",
-          "githubRepo": "cliapp",
-          "githubCommit": "HEAD"
-        },
-        {
           "packageName": "packaging",
           "packageVersion": "26.0.0rc3",
           "githubOrg": "pypa",
           "githubRepo": "packaging",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "pallets-sphinx-themes",
+          "packageVersion": "2.5.0",
+          "githubOrg": "pallets",
+          "githubRepo": "pallets-sphinx-themes",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "jinja2",
+          "packageVersion": "3.1.6",
+          "githubOrg": "pallets",
+          "githubRepo": "jinja",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "itsdangerous",
+          "packageVersion": "2.2.0",
+          "githubOrg": "pallets",
+          "githubRepo": "itsdangerous",
           "githubCommit": "HEAD"
         },
         {
@@ -12142,6 +12142,27 @@
           "githubCommit": "HEAD"
         },
         {
+          "packageName": "dotenv",
+          "packageVersion": "0.9.9",
+          "githubOrg": "pedroburon",
+          "githubRepo": "dotenv",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "markupsafe",
+          "packageVersion": "3.0.3",
+          "githubOrg": "pallets",
+          "githubRepo": "markupsafe",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "cliapp",
+          "packageVersion": "1.0.9",
+          "githubOrg": "zhchang",
+          "githubRepo": "cliapp",
+          "githubCommit": "HEAD"
+        },
+        {
           "packageName": "namespace",
           "packageVersion": "0.1.4",
           "githubOrg": "tombulled",
@@ -12149,10 +12170,10 @@
           "githubCommit": "HEAD"
         },
         {
-          "packageName": "pallets-sphinx-themes",
-          "packageVersion": "2.5.0",
-          "githubOrg": "pallets",
-          "githubRepo": "pallets-sphinx-themes",
+          "packageName": "blinker",
+          "packageVersion": "1.9.0",
+          "githubOrg": "pallets-eco",
+          "githubRepo": "blinker",
           "githubCommit": "HEAD"
         }
       ]
