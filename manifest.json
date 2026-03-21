@@ -6782,49 +6782,67 @@
       "dep": "dep/d1d82ca8ce7262ad9d27245ce44f86571287810e.nq.gz",
       "dependencies": [
         {
+          "packageName": "itsdangerous",
+          "packageVersion": "2.2.0",
+          "githubOrg": "pallets",
+          "githubRepo": "itsdangerous",
+          "githubCommit": "096c8d42545d3b68ea21a4f890fb2b2d8979c0bd"
+        },
+        {
           "packageName": "pytest",
+          "packageVersion": "9.0.2",
           "githubOrg": "pytest-dev",
-          "githubRepo": "pytest"
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
         },
         {
           "packageName": "flask",
+          "packageVersion": "3.1.3",
           "githubOrg": "pallets",
-          "githubRepo": "flask"
+          "githubRepo": "flask",
+          "githubCommit": "22d924701a6ae2e4cd01e9a15bbaf3946094af65"
         },
         {
           "packageName": "werkzeug",
+          "packageVersion": "3.1.6",
           "githubOrg": "pallets",
-          "githubRepo": "werkzeug"
+          "githubRepo": "werkzeug",
+          "githubCommit": "04da1b5221b7a7b57e82246e4b5741d37a6b2e56"
         },
         {
           "packageName": "jinja2",
+          "packageVersion": "3.1.6",
           "githubOrg": "pallets",
-          "githubRepo": "jinja"
-        },
-        {
-          "packageName": "blinker",
-          "githubOrg": "pallets-eco",
-          "githubRepo": "blinker"
-        },
-        {
-          "packageName": "itsdangerous",
-          "githubOrg": "pallets",
-          "githubRepo": "itsdangerous"
+          "githubRepo": "jinja",
+          "githubCommit": "15206881c006c79667fe5154fe80c01c65410679"
         },
         {
           "packageName": "click",
+          "packageVersion": "8.3.1",
           "githubOrg": "pallets",
-          "githubRepo": "click"
-        },
-        {
-          "packageName": "greenlet",
-          "githubOrg": "python-greenlet",
-          "githubRepo": "greenlet"
+          "githubRepo": "click",
+          "githubCommit": "1d038f270701498433cb432f54db89f95f07a845"
         },
         {
           "packageName": "cliapp",
+          "packageVersion": "1.0.9",
           "githubOrg": "zhchang",
-          "githubRepo": "cliapp"
+          "githubRepo": "cliapp",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "blinker",
+          "packageVersion": "1.9.0",
+          "githubOrg": "pallets-eco",
+          "githubRepo": "blinker",
+          "githubCommit": "669f3a027828d19786e708b511277fabcd6b9532"
+        },
+        {
+          "packageName": "greenlet",
+          "packageVersion": "3.3.2",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet",
+          "githubCommit": "a62f331fd74d0d17ab64b509ad9fb685d5cfeaec"
         }
       ]
     },
