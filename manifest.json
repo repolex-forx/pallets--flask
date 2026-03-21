@@ -5696,6 +5696,94 @@
         "blob/27182a8458df46d1d38b36b5c20b4bf1dcd5e0d2.nq.gz",
         "blob/445fb5a1c6be49aae4e6784e1e6eb7919bc83310.nq.gz",
         "blob/0f99a7e8c98d90d746732f55e52b1c3d890abc6f.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/187d7179f605d28c3d24e9f4d65d3295fb099afe.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/187d7179f605d28c3d24e9f4d65d3295fb099afe.nq.gz",
+      "repolex": "aggregate/repolex/187d7179f605d28c3d24e9f4d65d3295fb099afe.nq.gz",
+      "dep": "dep/187d7179f605d28c3d24e9f4d65d3295fb099afe.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "flask",
+          "githubOrg": "pallets",
+          "githubRepo": "flask"
+        },
+        {
+          "packageName": "werkzeug",
+          "githubOrg": "pallets",
+          "githubRepo": "werkzeug"
+        },
+        {
+          "packageName": "itsdangerous",
+          "githubOrg": "pallets",
+          "githubRepo": "itsdangerous"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "click",
+          "githubOrg": "pallets",
+          "githubRepo": "click"
+        },
+        {
+          "packageName": "jinja2",
+          "githubOrg": "pallets",
+          "githubRepo": "jinja"
+        },
+        {
+          "packageName": "dotenv",
+          "githubOrg": "pedroburon",
+          "githubRepo": "dotenv"
+        },
+        {
+          "packageName": "cryptography",
+          "githubOrg": "pyca",
+          "githubRepo": "cryptography"
+        },
+        {
+          "packageName": "namespace",
+          "githubOrg": "tombulled",
+          "githubRepo": "namespace"
+        },
+        {
+          "packageName": "blinker",
+          "githubOrg": "pallets-eco",
+          "githubRepo": "blinker"
+        },
+        {
+          "packageName": "cliapp",
+          "githubOrg": "zhchang",
+          "githubRepo": "cliapp"
+        },
+        {
+          "packageName": "packaging",
+          "githubOrg": "pypa",
+          "githubRepo": "packaging"
+        },
+        {
+          "packageName": "pallets-sphinx-themes",
+          "githubOrg": "pallets",
+          "githubRepo": "pallets-sphinx-themes"
+        },
+        {
+          "packageName": "markupsafe",
+          "githubOrg": "pallets",
+          "githubRepo": "markupsafe"
+        },
+        {
+          "packageName": "asgiref",
+          "githubOrg": "django",
+          "githubRepo": "asgiref"
+        },
+        {
+          "packageName": "greenlet",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet"
+        }
       ]
     }
   ],
