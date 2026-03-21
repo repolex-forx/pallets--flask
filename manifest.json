@@ -9379,63 +9379,87 @@
       "dependencies": [
         {
           "packageName": "flask",
+          "packageVersion": "3.1.3",
           "githubOrg": "pallets",
-          "githubRepo": "flask"
-        },
-        {
-          "packageName": "werkzeug",
-          "githubOrg": "pallets",
-          "githubRepo": "werkzeug"
-        },
-        {
-          "packageName": "jinja2",
-          "githubOrg": "pallets",
-          "githubRepo": "jinja"
-        },
-        {
-          "packageName": "click",
-          "githubOrg": "pallets",
-          "githubRepo": "click"
+          "githubRepo": "flask",
+          "githubCommit": "22d924701a6ae2e4cd01e9a15bbaf3946094af65"
         },
         {
           "packageName": "pytest",
+          "packageVersion": "9.0.2",
           "githubOrg": "pytest-dev",
-          "githubRepo": "pytest"
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
         },
         {
-          "packageName": "blinker",
-          "githubOrg": "pallets-eco",
-          "githubRepo": "blinker"
-        },
-        {
-          "packageName": "packaging",
-          "githubOrg": "pypa",
-          "githubRepo": "packaging"
-        },
-        {
-          "packageName": "greenlet",
-          "githubOrg": "python-greenlet",
-          "githubRepo": "greenlet"
-        },
-        {
-          "packageName": "itsdangerous",
+          "packageName": "werkzeug",
+          "packageVersion": "3.1.6",
           "githubOrg": "pallets",
-          "githubRepo": "itsdangerous"
+          "githubRepo": "werkzeug",
+          "githubCommit": "04da1b5221b7a7b57e82246e4b5741d37a6b2e56"
         },
         {
-          "packageName": "pallets-sphinx-themes",
+          "packageName": "jinja2",
+          "packageVersion": "3.1.6",
           "githubOrg": "pallets",
-          "githubRepo": "pallets-sphinx-themes"
+          "githubRepo": "jinja",
+          "githubCommit": "15206881c006c79667fe5154fe80c01c65410679"
         },
         {
           "packageName": "dotenv",
+          "packageVersion": "0.9.9",
           "githubOrg": "pedroburon",
-          "githubRepo": "dotenv"
+          "githubRepo": "dotenv",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "itsdangerous",
+          "packageVersion": "2.2.0",
+          "githubOrg": "pallets",
+          "githubRepo": "itsdangerous",
+          "githubCommit": "096c8d42545d3b68ea21a4f890fb2b2d8979c0bd"
         },
         {
           "packageName": "cliapp",
+          "packageVersion": "1.0.9",
           "githubOrg": "zhchang",
-          "githubRepo": "cliapp"
+          "githubRepo": "cliapp",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "click",
+          "packageVersion": "8.3.1",
+          "githubOrg": "pallets",
+          "githubRepo": "click",
+          "githubCommit": "1d038f270701498433cb432f54db89f95f07a845"
+        },
+        {
+          "packageName": "blinker",
+          "packageVersion": "1.9.0",
+          "githubOrg": "pallets-eco",
+          "githubRepo": "blinker",
+          "githubCommit": "669f3a027828d19786e708b511277fabcd6b9532"
+        },
+        {
+          "packageName": "pallets-sphinx-themes",
+          "packageVersion": "2.5.0",
+          "githubOrg": "pallets",
+          "githubRepo": "pallets-sphinx-themes",
+          "githubCommit": "ae90e2c6496ef95d7487e981b8496d024f322939"
+        },
+        {
+          "packageName": "greenlet",
+          "packageVersion": "3.3.2",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet",
+          "githubCommit": "a62f331fd74d0d17ab64b509ad9fb685d5cfeaec"
+        },
+        {
+          "packageName": "packaging",
+          "packageVersion": "26.0.0rc3",
+          "githubOrg": "pypa",
+          "githubRepo": "packaging",
+          "githubCommit": "HEAD"
         }
       ]
     },
