@@ -15627,6 +15627,56 @@
         "blob/27182a8458df46d1d38b36b5c20b4bf1dcd5e0d2.nq.gz",
         "blob/445fb5a1c6be49aae4e6784e1e6eb7919bc83310.nq.gz",
         "blob/0f99a7e8c98d90d746732f55e52b1c3d890abc6f.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/298334fffc8288b5a9a45ef4150e3c4292e45318.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/298334fffc8288b5a9a45ef4150e3c4292e45318.nq.gz",
+      "repolex": "aggregate/repolex/298334fffc8288b5a9a45ef4150e3c4292e45318.nq.gz",
+      "dep": "dep/298334fffc8288b5a9a45ef4150e3c4292e45318.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "werkzeug",
+          "packageVersion": "3.1.6",
+          "githubOrg": "pallets",
+          "githubRepo": "werkzeug",
+          "githubCommit": "04da1b5221b7a7b57e82246e4b5741d37a6b2e56"
+        },
+        {
+          "packageName": "flask",
+          "packageVersion": "3.1.3",
+          "githubOrg": "pallets",
+          "githubRepo": "flask",
+          "githubCommit": "22d924701a6ae2e4cd01e9a15bbaf3946094af65"
+        },
+        {
+          "packageName": "jinja2",
+          "packageVersion": "3.1.6",
+          "githubOrg": "pallets",
+          "githubRepo": "jinja",
+          "githubCommit": "15206881c006c79667fe5154fe80c01c65410679"
+        },
+        {
+          "packageName": "blinker",
+          "packageVersion": "1.9.0",
+          "githubOrg": "pallets-eco",
+          "githubRepo": "blinker",
+          "githubCommit": "669f3a027828d19786e708b511277fabcd6b9532"
+        },
+        {
+          "packageName": "itsdangerous",
+          "packageVersion": "2.2.0",
+          "githubOrg": "pallets",
+          "githubRepo": "itsdangerous",
+          "githubCommit": "096c8d42545d3b68ea21a4f890fb2b2d8979c0bd"
+        },
+        {
+          "packageName": "greenlet",
+          "packageVersion": "3.3.2",
+          "githubOrg": "python-greenlet",
+          "githubRepo": "greenlet",
+          "githubCommit": "a62f331fd74d0d17ab64b509ad9fb685d5cfeaec"
+        }
       ]
     }
   ],
